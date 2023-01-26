@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import './app.css'
-import CardCategories from "./CardCategories";
-import Header from "./Header";
-import RecipesList from "./RecipesList";
-import Searchbar from "./Searchbar";
-import { categoriesList } from "../data/categoriesList";
+import CardCategories from "./Components/CardCategories";
+import Header from "./Components/Header";
+import RecipesCards from "./Components/RecipesCards";
+import Searchbar from "./Components/Searchbar";
+import { categoriesList } from "./Components/categoriesList";
 
 
 class App extends Component {
@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   handleSubmit = async (e) => {
-    const recipeQuery = e.target.recipeQuery.value;
+    const recipeQuery = e.target.elements.recipeQuery.value;
     e.preventDefault();
 
     //Get recipes from the API
@@ -31,7 +31,7 @@ class App extends Component {
         <Header />
         <CardCategories categoriesList={categoriesList} />
         <Searchbar handleSubmit={this.handleSubmit} label={"Search by ingredient... "} />
-        <RecipesList recipes={this.state.recipes} />
+        <RecipesCards recipes={this.state.recipes} />
       </div>
     );
   }

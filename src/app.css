@@ -1,5 +1,5 @@
 .image-cover {
-  background-image: url("../../public/img/hero-bg.jpg");
+  background-image: url("./img/hero-bg.jpg");
 }
 
 .form-outline {
@@ -61,4 +61,12 @@
   .card-container {
     max-width: 110px;
   }
+}
+
+.recipe-cards {
+  margin: 20px 8rem;
+}
+
+.card-body {
+  padding: 1rem 1rem;
 }

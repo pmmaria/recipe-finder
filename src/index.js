@@ -9,7 +9,7 @@ import RouterApp from './Components/RouterApp';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
-  <HashRouter>
+  <HashRouter basename='/recipe-finder'>
     <RouterApp />
   </HashRouter>
   // </React.StrictMode>

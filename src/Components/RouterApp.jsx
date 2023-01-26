@@ -6,7 +6,7 @@ import RecipeDetail from "./RecipeDetail";
 const RouterApp = () => {
   return (
     <Routes>
-      <Route exact path="/" element={<App />} />
+      <Route exact path="/recipe-finder" element={<App />} />
       <Route path="/recipe/:id" element={<RecipeDetail />} />
     </Routes>
   );

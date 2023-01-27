@@ -1,22 +1,17 @@
 {
-  "files": {
-    "main.css": "/recipe-finder/static/css/main.a0c00c25.css",
-    "main.js": "/recipe-finder/static/js/main.6d0a7e08.js",
-    "static/media/fa-solid-900.ttf": "/recipe-finder/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/fa-brands-400.ttf": "/recipe-finder/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/recipe-finder/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/recipe-finder/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/hero-bg.jpg": "/recipe-finder/static/media/hero-bg.0e6d0074c74bdcb037ec.jpg",
-    "static/media/fa-regular-400.ttf": "/recipe-finder/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/fa-regular-400.woff2": "/recipe-finder/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/recipe-finder/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/recipe-finder/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/recipe-finder/index.html",
-    "main.a0c00c25.css.map": "/recipe-finder/static/css/main.a0c00c25.css.map",
-    "main.6d0a7e08.js.map": "/recipe-finder/static/js/main.6d0a7e08.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.a0c00c25.css",
-    "static/js/main.6d0a7e08.js"
-  ]
+  "main.css": "/recipe-finder/static/css/main.99d4fae6.chunk.css",
+  "main.js": "/recipe-finder/static/js/main.361a12dd.chunk.js",
+  "main.js.map": "/recipe-finder/static/js/main.361a12dd.chunk.js.map",
+  "static/css/1.c0bb6864.chunk.css": "/recipe-finder/static/css/1.c0bb6864.chunk.css",
+  "static/js/1.201250f1.chunk.js": "/recipe-finder/static/js/1.201250f1.chunk.js",
+  "static/js/1.201250f1.chunk.js.map": "/recipe-finder/static/js/1.201250f1.chunk.js.map",
+  "runtime~main.js": "/recipe-finder/static/js/runtime~main.693457eb.js",
+  "runtime~main.js.map": "/recipe-finder/static/js/runtime~main.693457eb.js.map",
+  "static/media/all.css": "/recipe-finder/static/media/fa-v4compatibility.6ddaf31a.woff2",
+  "static/media/app.css": "/recipe-finder/static/media/hero-bg.c5b45d5f.jpg",
+  "static/css/main.99d4fae6.chunk.css.map": "/recipe-finder/static/css/main.99d4fae6.chunk.css.map",
+  "static/css/1.c0bb6864.chunk.css.map": "/recipe-finder/static/css/1.c0bb6864.chunk.css.map",
+  "index.html": "/recipe-finder/index.html",
+  "precache-manifest.8862c1353df2ff66c1b04e22b32ef08b.js": "/recipe-finder/precache-manifest.8862c1353df2ff66c1b04e22b32ef08b.js",
+  "service-worker.js": "/recipe-finder/service-worker.js"
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "361a12dd327c4024cae7",
+    "revision": "3f4607f31e09f63e1cfd",
     "url": "/recipe-finder/static/css/main.99d4fae6.chunk.css"
   },
   {
-    "revision": "361a12dd327c4024cae7",
-    "url": "/recipe-finder/static/js/main.361a12dd.chunk.js"
+    "revision": "3f4607f31e09f63e1cfd",
+    "url": "/recipe-finder/static/js/main.3f4607f3.chunk.js"
   },
   {
-    "revision": "201250f176f1d945eb12",
+    "revision": "8e40efd15d033b6cfaf8",
     "url": "/recipe-finder/static/css/1.c0bb6864.chunk.css"
   },
   {
-    "revision": "201250f176f1d945eb12",
-    "url": "/recipe-finder/static/js/1.201250f1.chunk.js"
+    "revision": "8e40efd15d033b6cfaf8",
+    "url": "/recipe-finder/static/js/1.8e40efd1.chunk.js"
   },
   {
     "revision": "693457eb8e1e72c33441",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "4b162098158528431aeb5636116777f0",
     "url": "/recipe-finder/static/media/fa-regular-400.4b162098.woff2"
+  },
+  {
+    "revision": "6ddaf31a1e0e05490f6919cbb3347e9d",
+    "url": "/recipe-finder/static/media/fa-v4compatibility.6ddaf31a.woff2"
   },
   {
     "revision": "e2f5b365c7d3d4497da73148ddfae997",
@@ -48,15 +52,11 @@ self.__precacheManifest = [
     "url": "/recipe-finder/static/media/fa-solid-900.c0bf087a.ttf"
   },
   {
-    "revision": "6ddaf31a1e0e05490f6919cbb3347e9d",
-    "url": "/recipe-finder/static/media/fa-v4compatibility.6ddaf31a.woff2"
-  },
-  {
     "revision": "c5b45d5f5473b15b5afc9112382ea0f8",
     "url": "/recipe-finder/static/media/hero-bg.c5b45d5f.jpg"
   },
   {
-    "revision": "200cdbb624a0e50fdf7e45682edad1bf",
+    "revision": "53f716a022ce03c177275e56983a92c5",
     "url": "/recipe-finder/index.html"
   }
 ];
